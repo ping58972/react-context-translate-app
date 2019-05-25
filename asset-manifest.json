@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-context-translate-app/static/js/main.87a721cd.chunk.js",
+    "main.js.map": "/react-context-translate-app/static/js/main.87a721cd.chunk.js.map",
+    "runtime~main.js": "/react-context-translate-app/static/js/runtime~main.653c7cca.js",
+    "runtime~main.js.map": "/react-context-translate-app/static/js/runtime~main.653c7cca.js.map",
+    "static/js/2.dc155f86.chunk.js": "/react-context-translate-app/static/js/2.dc155f86.chunk.js",
+    "static/js/2.dc155f86.chunk.js.map": "/react-context-translate-app/static/js/2.dc155f86.chunk.js.map",
+    "index.html": "/react-context-translate-app/index.html",
+    "precache-manifest.c73efca29051a94e70cb033fa1a7c73a.js": "/react-context-translate-app/precache-manifest.c73efca29051a94e70cb033fa1a7c73a.js",
+    "service-worker.js": "/react-context-translate-app/service-worker.js"
+  }
+}
